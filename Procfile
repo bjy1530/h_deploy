@@ -1,0 +1,1 @@
+web: gunicorn sec_assignment.wsgi --log-file -
